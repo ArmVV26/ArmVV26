@@ -22,8 +22,8 @@
 <br>
 <div align="center">
 
-   ![ArmVV26 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmVV26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-   ![ArmVV26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArmVV26&theme=tokyonight&hide_border=false)
+   ![ArmVV26 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmVV26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br>
+   ![ArmVV26's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArmVV26&theme=tokyonight&hide_border=false)<br>
    ![ArmVV26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmVV26&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 </div>
