@@ -3,23 +3,40 @@
     <h2 align="center"> Hi 👋 I'm Armando Vaquero Vargas </h2>
 </p>
 
-### 🧑🏽 About me :
+## 🧑🏽 About me :
   - 📚 I'm a Junior Web Developer.
   - 🇪🇸  Based in Granada, Spain.
   - 🌱 Always learning new technologies and improving my skills.
   - ⛰️ Traveling and hiking are what I love most.
 
-### ⭐💻 Languages that I know:
+## ⭐💻 Languages that I know:
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML logo" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS logo" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Badge_js-strict_%28cropped%29.png" alt="JavaScript logo" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" alt="PHP logo" width="100" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Python_logo_52.svg" alt="Python logo" width="100" height="100"/>
-</p>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />    
+</div>
 
-<br>
+###
+
+---
+
 <div align="center">
 
    ![ArmVV26 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmVV26&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br>
