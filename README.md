@@ -1,6 +1,12 @@
 <p align="center">
     <img src="https://github.com/ArmVV26/ArmVV26/blob/main/img/name.svg" alt="Armando Vaquero" />
-    <h2 align="center"> Hi 👋 I'm Armando Vaquero Vargas </h2>
+    <h3 align="center"> Hi 
+        <img width="30" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpkMXltODc5OWdvMnNkYjVia2dndW5tY2J4OG9yb2I2Mnh5MDNhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif">
+        !
+    </h3>
+    <h3 align="center">
+        I'm Armando Vaquero Vargas 
+    </h3>
 </p>
 
 ## 🧑🏽 About me :
@@ -9,7 +15,7 @@
   - 🌱 Always learning new technologies and improving my skills.
   - ⛰️ Traveling and hiking are what I love most.
 
-## ⭐💻 Languages that I know
+## <img width="25" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW52bmM0NjU3aWFveTl5bWVzbzdkNTJpbjJ1dXBpbmlqaGQ5YWN6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif"> Languages that I know
 
 <div align="center">
     
