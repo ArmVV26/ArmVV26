@@ -1,12 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ArmVV26/ArmVV26/blob/main/img/name.svg" alt="Armando Vaquero" />
-    <h3 align="center"> Hi 
-        <img width="30" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpkMXltODc5OWdvMnNkYjVia2dndW5tY2J4OG9yb2I2Mnh5MDNhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif">
-        !
-    </h3>
-    <h3 align="center">
-        I'm Armando Vaquero Vargas 
-    </h3>
+    <img src="./img/Armando-Header.png">
 </p>
 
 ## 🧑🏽 About me :
