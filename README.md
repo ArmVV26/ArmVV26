@@ -52,13 +52,3 @@
    ![Brevo](https://img.shields.io/badge/-Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white)
    
 </div>
-
----
-
-<div align="center">
-
-   ![ArmVV26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=armvv26&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br>
-   ![ArmVV26 GitHub Resumen](https://nirzak-streak-stats.vercel.app/?user=armvv26&theme=midnight-purple&hide_border=false)<br>
-   ![ArmVV26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armvv26&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
